@@ -1,4 +1,5 @@
-# ntigradproject
+# This is a simple E-commerce
+ application created as part of my learning at NTI (National Telecommunication Institute).
 
 A new Flutter project.
 
